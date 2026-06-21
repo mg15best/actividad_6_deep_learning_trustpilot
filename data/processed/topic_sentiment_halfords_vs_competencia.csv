@@ -1,0 +1,7 @@
+topic_id,topic_name,negative_halfords,neutral_halfords,positive_halfords,negative_competencia,neutral_competencia,positive_competencia,dif_positive_halfords_vs_competencia,dif_negative_halfords_vs_competencia,lectura_negocio
+3,Experiencia en tienda y personal,10.53,0.0,89.47,23.28,3.45,73.28,16.19,-12.75,Fortaleza frente a competencia
+4,Bombillas y luces del vehículo,11.11,5.56,83.33,25.95,3.1,70.94,12.39,-14.84,Fortaleza frente a competencia
+1,"Bicicletas, compra y reparaciones",33.33,0.0,66.67,34.72,4.53,60.75,5.92,-1.39,Fortaleza frente a competencia
+2,"Baterías, garantía y pedidos",50.0,0.0,50.0,43.41,8.29,48.29,1.71,6.59,Área de mejora
+0,Atención al cliente y servicio general,55.17,3.45,41.38,45.42,4.29,50.29,-8.91,9.75,Área de mejora prioritaria
+5,Limpiaparabrisas y escobillas,42.86,14.29,42.86,35.82,7.25,56.92,-14.06,7.04,Área de mejora prioritaria

@@ -1,0 +1,7 @@
+sentiment_label,n_reviews,pct_reviews,group
+negative,34,34.0,Halfords
+neutral,3,3.0,Halfords
+positive,63,63.0,Halfords
+negative,1653,37.57,Competencia comparable
+neutral,201,4.57,Competencia comparable
+positive,2546,57.86,Competencia comparable

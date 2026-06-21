@@ -1,0 +1,7 @@
+topic_id,topic_name,negative,neutral,positive,total_reviews_topic,sentimiento_topic
+0,Atención al cliente y servicio general,55.17,3.45,41.38,29,negative
+3,Experiencia en tienda y personal,10.53,0.0,89.47,19,positive
+4,Bombillas y luces del vehículo,11.11,5.56,83.33,18,positive
+1,"Bicicletas, compra y reparaciones",33.33,0.0,66.67,15,positive
+2,"Baterías, garantía y pedidos",50.0,0.0,50.0,12,mixto
+5,Limpiaparabrisas y escobillas,42.86,14.29,42.86,7,mixto

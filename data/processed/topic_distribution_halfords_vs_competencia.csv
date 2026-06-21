@@ -1,0 +1,13 @@
+topic_id,topic_name,n_reviews,pct_reviews,group
+0,Atención al cliente y servicio general,29,29.0,Halfords
+1,"Bicicletas, compra y reparaciones",15,15.0,Halfords
+2,"Baterías, garantía y pedidos",12,12.0,Halfords
+3,Experiencia en tienda y personal,19,19.0,Halfords
+4,Bombillas y luces del vehículo,18,18.0,Halfords
+5,Limpiaparabrisas y escobillas,7,7.0,Halfords
+0,Atención al cliente y servicio general,1911,43.43,Competencia comparable
+1,"Bicicletas, compra y reparaciones",772,17.55,Competencia comparable
+2,"Baterías, garantía y pedidos",205,4.66,Competencia comparable
+3,Experiencia en tienda y personal,348,7.91,Competencia comparable
+4,Bombillas y luces del vehículo,709,16.11,Competencia comparable
+5,Limpiaparabrisas y escobillas,455,10.34,Competencia comparable
